@@ -1,2 +1,2 @@
-# EXAMEN-1---Programaci-n
-Programing test from past years (in Catalan)
+# EXAMEN-1---Programacion
+Programing test from past years (in Spanish)
